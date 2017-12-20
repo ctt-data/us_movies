@@ -1,0 +1,23 @@
+img {
+    max-width: 100%;
+  }
+
+d {
+font-size: 15px;
+font-family:Tahoma, Geneva, sans-serif;
+}
+
+p {
+font-size: 15px;
+font-family:Tahoma, Geneva, sans-serif;
+text-align: justify;
+width: 60%;
+height: 100px;
+}
+
+h1 {
+font-size: 35px;
+font-family:"Gill Sans", Helvetica, sans-serif;
+}
+
+  
